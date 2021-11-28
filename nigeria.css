@@ -1,0 +1,27 @@
+   .col{
+  justify-items: center;
+  align-items: center;
+  }
+  
+    
+  .hero{
+    height: 70vh; 
+
+  }  
+    
+  
+  
+  
+  
+  
+  
+        /* Height for devices larger than 576px */
+        @media (min-width: 992px) {
+          #introCarousel {
+            margin-top: -58.59px;
+          }
+        }
+  
+        .navbar .nav-link {
+          color: #fff !important;
+        }
